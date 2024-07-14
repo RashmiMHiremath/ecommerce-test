@@ -1,1 +1,2 @@
 hey, I am test2 file, I am from feature 1 branch
+I am the changes from master branch
