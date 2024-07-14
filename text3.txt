@@ -1,2 +1,4 @@
 Hi, This file is created from feature2
-hello I am line 2 from feature 4 branch
+
+I am the second line from master branch. Updated from master branch
+
